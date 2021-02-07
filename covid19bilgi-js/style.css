@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(221, 221, 221);
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+html {
+	height: 100%;
+	width: 100%;
+}
+h3{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(94, 94, 94);
+}
+h1 {
+	font-family: 'DM Sans', sans-serif;
+	font-weight: 300;
+	text-align: center;
+	padding-bottom: 20px;
+	font-size: 250%;
+}
+
+h4 {
+	font-size: 85%;
+ 	color: rgb(0, 89, 255);
+ 	font-family: 'Poppins', sans-serif;
+ 	font-weight: 300;
+ 	text-align: center;
+ 	padding-top: 20px;
+ 	padding-left: 20px;
+ 	padding-right: 20px;
+ 	padding-bottom: 5px;
+}
+.footer {
+	font-family: 'Roboto', sans-serif;
+	bottom: 0;
+	font-size: 15px;
+	padding: 11px;
+}
